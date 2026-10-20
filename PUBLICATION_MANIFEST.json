@@ -1,0 +1,190 @@
+{
+  "original_repository": "GoT2026/Shooong.unity",
+  "source_commit": "7c9e18c7131fe1cbc3ff03f4716fe6328f160fc0",
+  "snapshot_kind": "Selected source files; no original Git history, binary assets, scenes, prefabs or project settings",
+  "owner": "syyahoo",
+  "selection_basis": "User confirmed own client scripts except Cesium",
+  "files": [
+    {
+      "path": "Assets/02_Scripts/Checkpoint/Checkpoint.cs",
+      "source_blob_sha": "8f584cd4ae5d89a47c2749ca3534cbe461f8fce2",
+      "published_sha256": "c8c92e4b994ef2ac876a64d1d2bd8c12693dca0d75af9f1ae49f2d1a4ef5c82b"
+    },
+    {
+      "path": "Assets/02_Scripts/Checkpoint/CheckpointCourse.cs",
+      "source_blob_sha": "143cde0479b70faa81fc391a423efc167f26c071",
+      "published_sha256": "7f41e853154c54b8b26d3fc3854a8537bd35a200174b55e8c75f4f01352f12f9"
+    },
+    {
+      "path": "Assets/02_Scripts/Data/HandPoseData.cs",
+      "source_blob_sha": "a18289d231c2291e2c8fc597941e57bdcbd730e2",
+      "published_sha256": "30d1765f1581cbc7feb90b39faad0e0218d3f9d3f7209149060b2aefa16807f1"
+    },
+    {
+      "path": "Assets/02_Scripts/Checkpoint/CheckpointTelemetryProvider.cs",
+      "source_blob_sha": "6154af26d338a1feee30f62ea0384cccd6261302",
+      "published_sha256": "83280f72a7d4404b5db5dd652a70da78741725349f2a46934fa4dae88e6bfb14"
+    },
+    {
+      "path": "Assets/02_Scripts/Data/DroneInputData.cs",
+      "source_blob_sha": "3e06b084e9632ca4bc58d56fcf59a1d1652f16c9",
+      "published_sha256": "a1520260f50ddab96417692fd46c6363ba5c08e6077ae9478ca85ff73e6872b7"
+    },
+    {
+      "path": "Assets/02_Scripts/Drone/DroneAudioController.cs",
+      "source_blob_sha": "95557a541b5d3f3d0126d56622e09958f9a0d58a",
+      "published_sha256": "755a0d21c375f5a7f5c7d0129bf16fb4054690514b295587b9c6584b31ffefbb"
+    },
+    {
+      "path": "Assets/02_Scripts/Drone/DroneCameraRigFollower.cs",
+      "source_blob_sha": "6eff8c538866221839ee221a08ee837ae1571104",
+      "published_sha256": "4cce37ade2608cdeaa58002486ed9392b93f119caeb907f10dfa05c8512d93a6"
+    },
+    {
+      "path": "Assets/02_Scripts/Drone/DroneMinimumSpeedAssist.cs",
+      "source_blob_sha": "7d0c865db06e3587d3fe1f5b65cd5262eff751bc",
+      "published_sha256": "e6692c22478b6c4f27101b30f1827217569151b8eba4e499ec8422da82b86845"
+    },
+    {
+      "path": "Assets/02_Scripts/Network/Auth/AuthDtos.cs",
+      "source_blob_sha": "f31610c5e5198a33576b7c0769a30d6690fdbb90",
+      "published_sha256": "94e231b7f48683ff02b466d9108bb63b277d0e9cac05d253dc36a67c8eb9afa3"
+    },
+    {
+      "path": "Assets/02_Scripts/Network/Auth/AuthService.cs",
+      "source_blob_sha": "388741f8e255bb5cba0528e82c7f3f941f357775",
+      "published_sha256": "949797a110e64d932bacf7089395937a8d175f7ebbec16383110e2cd778c13fe"
+    },
+    {
+      "path": "Assets/02_Scripts/Drone/DroneMovement.cs",
+      "source_blob_sha": "b20094c193a1bbb8063a612c1821c5cd998337f7",
+      "published_sha256": "7c654c3233b164df28c7a61c19146262eab97585241b3c0d1ea2104b7a15d5a5"
+    },
+    {
+      "path": "Assets/02_Scripts/Drone/DroneHoverLock.cs",
+      "source_blob_sha": "8dbc3f2bf550b74c5c4d4e67a0a473776e789223",
+      "published_sha256": "6a744311dd93d41e772adabf2147d6eb013e7c737d38b50c8f8c34aac3fb4cd2"
+    },
+    {
+      "path": "Assets/02_Scripts/Network/Core/ApiClient.cs",
+      "source_blob_sha": "86d258fedf96491e6477d1de40653bd4c6973e3d",
+      "published_sha256": "930418dba9310a99d58e8475b01b66798db776676de83ddf340dec1e3a54fb3d"
+    },
+    {
+      "path": "Assets/02_Scripts/Network/Core/ApiConfigSO.cs",
+      "source_blob_sha": "2f133dfac1e42de76ffe4d53c2d05f0147945c1e",
+      "published_sha256": "8f26bc6b8f274c939c36188bde8c45841f6fd20369be9c5713655460f3972c47"
+    },
+    {
+      "path": "Assets/02_Scripts/Network/Core/AuthTokenStore.cs",
+      "source_blob_sha": "dbfaaf049f6a81399a9a3e8a0414e65e01485c92",
+      "published_sha256": "9af7f36527eab2bfdb4a9d5c0f729a93259a7f89c27928497c9e6a8c258fbc70"
+    },
+    {
+      "path": "Assets/02_Scripts/Network/Core/BackendManager.cs",
+      "source_blob_sha": "d6a49a633ccbb335cca5c787f910ca844ff7d60b",
+      "published_sha256": "e419ce0d5da6da22a97bbbca156973d586b524f5a8f2f4171d6135f944488f7f"
+    },
+    {
+      "path": "Assets/02_Scripts/Network/Order/OrderDtos.cs",
+      "source_blob_sha": "21037021bf955a483b1e8b197ecfb7efa25fa8db",
+      "published_sha256": "d94b116d4d5e32156fbc67cb85a00e07b11a595d2a4cacc0113538ea23af4889"
+    },
+    {
+      "path": "Assets/02_Scripts/Network/Order/OrderService.cs",
+      "source_blob_sha": "bd3bc3697242e40ddbf9a563389c38b8c141f351",
+      "published_sha256": "2c9e10512026b6cb2765870b5d82159c4a1728907efad404a7b4ab9e14365b56"
+    },
+    {
+      "path": "Assets/02_Scripts/Scene/FlightSceneInitializer.cs",
+      "source_blob_sha": "78cd374b2cbca2280b4627573dc2f40ecc688c8e",
+      "published_sha256": "954d56d1aff40ffd2c0578ad774f871fa5629122806744d245ceebbb5046c4a3"
+    },
+    {
+      "path": "Assets/02_Scripts/Network/Telemetry/DronePoseBatchSender.cs",
+      "source_blob_sha": "bac0174af266518a8b5a119765d38e0292bd26ea",
+      "published_sha256": "e4d9e61a61f21ee5bf6ee47b347eb1e328490da69f9a6cdf84031cfed9ad758d"
+    },
+    {
+      "path": "Assets/02_Scripts/Network/Telemetry/DronePosePayload.cs",
+      "source_blob_sha": "980b8f05829b8d51f1e556af489f91f56538077c",
+      "published_sha256": "3e865a7f2ddb06d4877d14d8a0a8fb22cc722c889f562c321adab1b742d49128"
+    },
+    {
+      "path": "Assets/02_Scripts/Scene/FlightClearController.cs",
+      "source_blob_sha": "0170ab2dc094f4b6bc395a7276c28029cb2999fc",
+      "published_sha256": "32a3f49038380d8b6641b523127e8e47d10a6c64834283733d05873c50788ecf"
+    },
+    {
+      "path": "Assets/02_Scripts/UI/DroneControllerTest.cs",
+      "source_blob_sha": "3a3f8d4f2360bcb014ef24bf9d26fd005a5f0555",
+      "published_sha256": "ce4fdf7022a848c7a3bfc875fea7c2d8dddd9f76d73c13488f72b2f74865682c"
+    },
+    {
+      "path": "Assets/02_Scripts/UI/DroneSpeedometerUI.cs",
+      "source_blob_sha": "9ba92cb269fe71624544cc0f616c1d23fd67036f",
+      "published_sha256": "0dc79126a82a502bf0d2640af4100f8aa811f8076b2e395c59bba5d5427af159"
+    },
+    {
+      "path": "Assets/02_Scripts/UI/LobbyUIController.cs",
+      "source_blob_sha": "8744d4f0832e96794ef169708e868009f86e8b1c",
+      "published_sha256": "04e6777d4e6b1ba399fb7a28f7f2bebed2d8fdfefd8e3664259d537346c2e96b"
+    },
+    {
+      "path": "Assets/02_Scripts/UI/EnglishOnlyInputFilter.cs",
+      "source_blob_sha": "0bc88deb58a5d3311deec1590d3aac411e8e5deb",
+      "published_sha256": "af1b804dbdc7d212e4cacaeae75dd677b21fd735c3462c35c7fa0aa3aeafd563"
+    },
+    {
+      "path": "Assets/02_Scripts/UI/StabilizerOverlap.cs",
+      "source_blob_sha": "e39cb4a588017cc781dca724c50ea9d9812bbcd1",
+      "published_sha256": "a45d951f39f8d3a345e135d9af9f8e20bd9b88d84ad730c7b9e218c5e69da724"
+    },
+    {
+      "path": "Assets/02_Scripts/UI/WorldLockedRotation.cs",
+      "source_blob_sha": "5b56cb20a335aad9f381b566ada7d73a0eda7884",
+      "published_sha256": "c0218179bba0625d4437e26dc921a03d37f31015b536a8295cab19c39b5693f3"
+    },
+    {
+      "path": "Assets/02_Scripts/UI/FlightResultUI.cs",
+      "source_blob_sha": "5583cf2349c2cfb63af0cb421a9cb6c8f718ae34",
+      "published_sha256": "5d35a2ffd347f4d9e9a1e84c7bdc8d62cce1de9c48099e84252f93f9e4f65d3a"
+    },
+    {
+      "path": "Assets/02_Scripts/UI/XRKeyboardInitialHider.cs",
+      "source_blob_sha": "2d90c01ce260b08f9f6552e6837d14226de8f8f1",
+      "published_sha256": "a2e17a8715832005b174232b8f7e1df569a7699c87f88bd7d9899b80cc6bdd23"
+    },
+    {
+      "path": "Assets/02_Scripts/VR/HandPoseCalibrator.cs",
+      "source_blob_sha": "98484a3977754b0f92235f1e452ac1f25253bc34",
+      "published_sha256": "15d922a4c7eb8a5a09054249d88be657188200d52dbdbf2d130d35b8a50c16a0"
+    },
+    {
+      "path": "Assets/02_Scripts/VR/VRDroneInputReader.cs",
+      "source_blob_sha": "b4953e0da666e7ddd68f02a6141966f36334ca00",
+      "published_sha256": "c5c70f7fd97e176cccecb40941798a7e46515d802e64df2d39b72e2ef7203bdc"
+    },
+    {
+      "path": "Assets/02_Scripts/VR/VRPoseDebugView.cs",
+      "source_blob_sha": "a025b033aee9498ea80dbcd89ba39a6308f7936a",
+      "published_sha256": "e615172f0212ffa212e3202ec7e299c9847db1178c263ef545fd19f81e8fe547"
+    },
+    {
+      "path": "Assets/02_Scripts/VR/VRHandTracker.cs",
+      "source_blob_sha": "59010e2aa91e2028c7cb91fe78d90b892f79c9a6",
+      "published_sha256": "3ea334278ff5f0b36243a862a551cdf63c31575b02c75558c7341777cac75d6a"
+    }
+  ],
+  "public_copy_modifications": [
+    {
+      "path": "Assets/02_Scripts/Network/Auth/AuthService.cs",
+      "reason": "Removed test account defaults",
+      "fields": 3
+    },
+    {
+      "path": "Assets/02_Scripts/Network/Core/ApiConfigSO.cs",
+      "reason": "Replaced operational server address with example URL"
+    }
+  ]
+}
